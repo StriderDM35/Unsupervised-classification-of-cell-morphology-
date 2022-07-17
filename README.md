@@ -8,8 +8,8 @@ There are 3 files in this repository:<br />
 - The third file is used for classification and cluster analysis<br />
 The second and third files can be run directly using any Python IDE such as Spyder or Sublime Text. 
 
-**Results from the paper**<br />
-*The figures below are extracted directly from the manuscript, and show the results obtained using the dataset as shown in figure 1.*<br /><br />
+**Results**<br />
+*The 3 figures below are extracted directly from the manuscript, and show the results obtained using the dataset as shown in figure 1.*<br /><br />
 
 Figure 1 shows the dataset being used for cluster analysis.<br />
 <p align="center">
