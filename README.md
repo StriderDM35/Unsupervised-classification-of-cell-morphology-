@@ -1,5 +1,5 @@
 # Self-supervised classification of cell morphometric phenotypes as a function of specific extracellular matrices
-This repository contains the code for the following paper (submitted): Self-supervised classification of cell morphometric phenotypes as a function of specific extracellular matrices.
+This repository contains the code for the following paper: Self-supervised classification of cell morphometric phenotypes as a function of specific extracellular matrices (Submitted)<br />
 
 **How to use the files for your own cluster analysis**<br />
 There are 3 files in this repository:<br />
