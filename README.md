@@ -9,25 +9,19 @@ There are 3 files in this repository:<br />
 The second and third files can be run directly using any Python IDE such as Spyder or Sublime Text. 
 
 **Results from the paper**<br />
-*The figures below are extracted directly from the manuscript, and show the results obtained using the dataset as shown in figure 1.*<br />
+*The figures below are extracted directly from the manuscript, and show the results obtained using the dataset as shown in figure 1.*<br /><br />
 
 Figure 1 shows the dataset being used for cluster analysis.<br />
-
-Figure 2 shows the inter- and intra-class morphological distinction.  A) Scatter plot of the first two principal components demonstrates the diverse spread of morphologies between and within cell classes. B) PCA loading plot indicating how different morphological aspects of the cells influence the directions of the component values. C) t-SNE dimensionality-reduced representation, emphasizing local structure. D) HDBSCAN cluster analysis of t-SNE processed data from C) with representative images of each cluster shown.<br />
-
-Figure 3 shows a treemap of the HDBSCAN cluster results (top) and the respective labels for each cluster (bottom).<br /><br />
-
-Figure 1<br />
 <p align="center">
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/56214779/179389766-295cf958-b4a5-4164-bbd2-48ad3776db63.png">
 </p>
 
-Figure 2<br />
+Figure 2 shows the inter- and intra-class morphological distinction.  A) Scatter plot of the first two principal components demonstrates the diverse spread of morphologies between and within cell classes. B) PCA loading plot indicating how different morphological aspects of the cells influence the directions of the component values. C) t-SNE dimensionality-reduced representation, emphasizing local structure. D) HDBSCAN cluster analysis of t-SNE processed data from C) with representative images of each cluster shown.<br />
 <p align="center">
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/56214779/179389955-6b13aef1-4a73-4fdd-a398-a73ea86d8c54.png">
 </p>
 
-Figure 3<br />
+Figure 3 shows a treemap of the HDBSCAN cluster results (top) and the respective labels for each cluster (bottom).<br />
 <p align="center">
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/56214779/179389709-fb9ebe45-be69-4007-bb87-7a9d0c4c00e4.png">
 </p>
