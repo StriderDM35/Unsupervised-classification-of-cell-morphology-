@@ -10,7 +10,9 @@ Figure 2 shows the inter- and intra-class morphological distinction.  A) Scatter
 Figure 3 shows a treemap of the HDBSCAN cluster results (top) and the respective labels for each cluster (bottom).<br /><br />
 
 Figure 1<br />
+<p align="center">
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/56214779/179389766-295cf958-b4a5-4164-bbd2-48ad3776db63.png">
+</p>
 
 Figure 2<br />
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/56214779/179389955-6b13aef1-4a73-4fdd-a398-a73ea86d8c54.png">
